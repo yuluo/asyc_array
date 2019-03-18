@@ -1,0 +1,19 @@
+{
+  "name": "asyc_array",
+  "version": "1.0.0",
+  "description": "coding sampel for async array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuluo/asyc_array.git"
+  },
+  "author": "Yuanting Luo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuluo/asyc_array/issues"
+  },
+  "homepage": "https://github.com/yuluo/asyc_array#readme"
+}
