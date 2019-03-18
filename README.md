@@ -1,8 +1,8 @@
 # Description
 Code sample to show that await/async does not work with Array.forEach
 
-#Setup
+# Setup
 npm install
 
-#Test
+# Test
 npm test
